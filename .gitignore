@@ -1,0 +1,8 @@
+.vscode/
+.idea/
+
+/release/
+
+main
+kubeview
+*.exe
